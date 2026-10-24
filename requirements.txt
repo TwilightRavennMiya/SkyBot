@@ -1,0 +1,4 @@
+discord.py[voice]>=2.4.0,<3.0.0
+yt-dlp>=2025.1.15
+ddgs>=9.0.0
+spotipy>=2.25.0
